@@ -3,7 +3,8 @@
  
 Salade de fruit est une application permettant de rechercher des informations nutritives sur les fruits.
 
-#Pour installer l'application sur Android:
+# Pour installer l'application sur Android:
+
 Téléchargez l'installateur "Salade de fruit.apk" sur votre smartphone, installez la et vous pourre utiliser l'application.
 
 Aperçu:
