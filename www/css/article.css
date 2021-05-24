@@ -1,0 +1,21 @@
+.article{
+	text-align: center;
+	color: black;
+	
+
+}
+
+.trait{
+	margin-top:5px;
+ 	margin-bottom:5px;
+ 	height:1px;
+ 	width:50%;
+ 	border-top:2px solid gray;
+	
+        display: inline-block;
+}
+
+.ac{
+	margin-top: 200px;
+	text-align: center;
+}
